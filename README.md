@@ -1,6 +1,7 @@
 # T.Laukkanen2
 * Bullet point
-1. hakemisto
+1. Hakemisto
+2. Hakemisto
 _Italic_
 
 __Bold__
